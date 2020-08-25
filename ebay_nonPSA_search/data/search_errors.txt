@@ -1,0 +1,8 @@
+Ebay search error log
+2020-08-09 query error on: Berra: 1961
+
+2020-08-17 query error on: Banks: 1966
+
+2020-08-19 query error on: Aparicio: 1956
+
+2020-08-23 query error on: Winfield: 1978
