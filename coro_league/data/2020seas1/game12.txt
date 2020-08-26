@@ -1,0 +1,6 @@
+PTE 4 9 1
+FFR 5 8 1
+W-
+L-
+HR-
+HHR-

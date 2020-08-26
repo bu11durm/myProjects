@@ -1,0 +1,6 @@
+BDN 8 10 0
+PTE 6 6 1
+W-
+L-
+HR-
+HHR-
